@@ -2,7 +2,7 @@
 <ul>
   <li>👨‍💻 Técnico em informática na Ceres Insumos</li>
   <li>📝 Atualmente estudando JavaScript</li>
-  <li>📝 Estudante de Sistemas de Informação (<a href="https://www.ufms.com.br" target="_blank">UFMS</a>)</li>
+  <li>📝 Estudante de Sistemas de Informação (<a href="https://www.ufms.br" target="_blank">UFMS</a>)</li>
 </ul>
 
 <!---
